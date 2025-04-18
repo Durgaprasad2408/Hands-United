@@ -183,14 +183,15 @@ function Home() {
   return (
     <div>
       {/* Hero Section */}
-      <section className="bg-gray-50 py-20 h-[90vh] flex items-center">
+      <section className="bg-gray-50 py-20 h-[90vh] flex items-center ">
+      <div className="absolute inset-0 bg-[url('/bg.jpg')] bg-cover bg-center opacity-30"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
-              <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
+              <h1 className="text-4xl md:text-6xl font-bold text-black mb-6">
                 Hands United
               </h1>
-              <p className="text-xl text-gray-600 mb-8">
+              <p className="text-xl text-black mb-8">
                 Connect, Learn, and Share Skills with People Around You
               </p>
               <button
@@ -214,7 +215,13 @@ function Home() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 ">
                   <div className="text-center">
                     <div className="bg-primary/10 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                      <img src="../../public/signup.png" alt="" width={'40px'} />
+                    <svg className="w-8 h-8 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" >
+                      <path d="M16 14c2.21 0 4 1.79 4 4v1H4v-1c0-2.21 1.79-4 4-4h8z" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" />
+                      <path d="M12 12a4 4 0 100-8 4 4 0 000 8z" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" />
+                      {/* Plus Icon */}
+                      <path d="M20 8v4m2-2h-4" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" />
+                    </svg>
+
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Signup</h3>
                     <p className="text-gray-600">
@@ -245,7 +252,9 @@ function Home() {
                   </div>
                   <div className="text-center">
                     <div className="bg-primary/10 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                      <img src="../../public/request.png" alt="" width={'40px'} />
+                    <svg className="w-8 h-8 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor" xmlns="http://www.w3.org/2000/svg" >
+                      <path d="M3 10l19-7-7 19-2.75-6.25L3 10z" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" />
+                    </svg>
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Skill Request</h3>
                     <p className="text-gray-600">

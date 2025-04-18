@@ -218,7 +218,7 @@ function Home() {
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Signup</h3>
                     <p className="text-gray-600">
-                      Signup in the platform to acces the platform
+                      Create an account to access the platform and explore skill-sharing opportunities.
                     </p>
                   </div>
                   <div className="text-center">
@@ -229,7 +229,7 @@ function Home() {
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Find Skills</h3>
                     <p className="text-gray-600">
-                      Search for skills you want to learn or share with others
+                      Browse through skills you&apos;d like to learn or teach within your community
                     </p>
                   </div>
                   <div className="text-center">
@@ -240,7 +240,7 @@ function Home() {
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Connect</h3>
                     <p className="text-gray-600">
-                      Connect with skilled individuals in your area
+                    Engage with skilled individuals nearby and start meaningful exchanges.
                     </p>
                   </div>
                   <div className="text-center">
@@ -249,7 +249,7 @@ function Home() {
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Skill Request</h3>
                     <p className="text-gray-600">
-                      Request the desigred skill to your connections
+                    Send skill requests to your connections to learn what interests you.
                     </p>
                   </div>
                   <div className="text-center">
@@ -260,7 +260,7 @@ function Home() {
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Learn</h3>
                     <p className="text-gray-600">
-                      Schedule sessions and start learning new skills
+                    Schedule personalized sessions and start building new skills.
                     </p>
                   </div>
                   <div className="text-center">
@@ -269,7 +269,7 @@ function Home() {
                     </div>
                     <h3 className="text-xl font-semibold mb-2">Conquer</h3>
                     <p className="text-gray-600">
-                      Conquer your desired position
+                    Master your goals and achieve your dream skillset with Hands United.
                     </p>
                   </div>
                 </div>

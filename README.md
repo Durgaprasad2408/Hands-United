@@ -34,8 +34,8 @@ Our platform empowers individuals to **exchange skills**, **learn from experts**
 3. 🤝 **Connect**  
    Find your perfect learning match and reach out.
 
-4. 📅 **Schedule**  
-   Book sessions at times that work best for both parties.
+4. 📅 **Communitcate & Schedule**  
+   Communicate with others and schedule sessions that are relevant to both of you.
 
 5. 📘 **Learn & Share**  
    Start your journey of growth — both as a learner and as a mentor.
@@ -67,6 +67,20 @@ We strive to build a **global community** of lifelong learners and passionate te
 
 - 🌱 **Impact**  
   Creating lasting, positive change through inclusive education.
+
+---
+
+## 👨‍💻 Developer Info
+
+**Developed & Maintaining by:**
+
+**DurgaPrasad Pandiripalli**  
+📧 Email: [durgaprasadpandiripalli@outlook.com](mailto:durgaprasadpandiripalli@outlook.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/durga-prasad-pandiripalli-5b97ab264](https://www.linkedin.com/in/durga-prasad-pandiripalli-5b97ab264)  
+🌐 Portfolio: [https://www.durgaprasadpandiripalli.me](https://www.durgaprasadpandiripalli.me)  
+💻 GitHub: [https://github.com/Durgaprasad2408/](https://github.com/Durgaprasad2408/)
+
+> Passionate Full Stack Developer | CSE Undergrad | Building meaningful web experiences through code and collaboration.
 
 ---
 
